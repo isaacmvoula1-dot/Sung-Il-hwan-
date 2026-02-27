@@ -1,6 +1,7 @@
 # Sung Il-hwan
 
 Chers hunters !!!⚔️
+
 Réveillez-vous car le père du 🌑 MONARQUE DES OMBRES 🌑 est ici présent, moi Sung Il-hwan hunter assassin de classe:#inconnue# est là pour purger et assassiner tous les monstres des 🌀portails WhatsApp🌀.
 
 ______👥🗡️NE CRAIGNEZ POINT👥🗡️______
