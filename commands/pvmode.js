@@ -54,7 +54,7 @@ STATUT : EXCLUSIVITÉ MONARQUE`;
 STATUT : LIBRE ACCÈS`;
 
         return sock.sendMessage(chatId, { 
-            image: { url: "https://files.catbox.moe/v7zea2.jpg" },
+            image: { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/c3de1085cd4b6619beffba20fa6173729a6f67eb/images%20(1).jpg" },
             caption: msgOff 
         });
 
