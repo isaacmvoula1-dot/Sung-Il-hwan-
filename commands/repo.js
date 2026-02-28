@@ -26,7 +26,7 @@ export default {
 STATUT : ACCÈS AUTORISÉ`;
 
       await sock.sendMessage(chatId, { 
-        image: { url: "https://files.catbox.moe/v7zea2.jpg" }, // Ta nouvelle photo
+        image: { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/3886d9d94b0eb4e4c88182203302dc3b58735a00/tagall.jpg" }, // Ta nouvelle photo
         caption: repoMsg 
       }, { quoted: m });
 
