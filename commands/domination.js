@@ -26,7 +26,7 @@ Seuls les administrateurs peuvent communiquer.
 `;
 
       await sock.sendMessage(m.chat, {
-        image: { url: "https://files.catbox.moe/jlnqs3.jpg" },
+        image: { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/9c9dbf859bc5cd050df41633b4f407de79042eaf/domination.jpg" },
         caption: text
       }, { quoted: m });
 
