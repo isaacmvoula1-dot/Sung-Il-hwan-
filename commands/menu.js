@@ -3,8 +3,8 @@ import { commands } from '../handler.js';
 import { contextInfo } from '../system/contextInfo.js';
 
 const MENU_THEMES = [
-  { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/fb6ab1a23e0566303223fbe60ed2da5cc5854c78/file_0000000080e871f7a85a2be127f4734b.png", emoji: "🌑", frame: ["« 🌑 ━━━━━━━ SYSTEM ━━━━━━━ 🌑 »", "┃", "« ━━━━━━━━━━━━━━━━━━━━━━━━━━ »"] },
-  { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/fb6ab1a23e0566303223fbe60ed2da5cc5854c78/file_0000000080e871f7a85a2be127f4734b.png", emoji: "⚔️", frame: ["⚔️|──────────────────|⚔️", "┃", "⚔️|──────────────────|⚔️"] },
+  { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/37cae2eda56e2a48c934148147ea803eb7ac294d/menu.jpg", emoji: "🌑", frame: ["« 🌑 ━━━━━━━ SYSTEM ━━━━━━━ 🌑 »", "┃", "« ━━━━━━━━━━━━━━━━━━━━━━━━━━ »"] },
+  { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/fb6ab1a23e0566303223fbe60ed2da5cc5854c78/file_0000000080e871f7a85a2be127f4734b.jpg", emoji: "⚔️", frame: ["⚔️|──────────────────|⚔️", "┃", "⚔️|──────────────────|⚔️"] },
 ];
 
 export default {
