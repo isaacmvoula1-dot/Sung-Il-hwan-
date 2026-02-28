@@ -99,7 +99,7 @@ async function startBot() {
         // ================== CONNECTION ==================
     sock.ev.on('connection.update', async ({ connection, lastDisconnect }) => {
       if (connection === 'open') {
-        console.log(chalk.green('✅ MOMO-ZEN CONNECTÉ'));
+        console.log(chalk.green('✅ SUNG IL-HWAN CONNECTÉ'));
 
         try {
           const jid = sock.user.id.split(':')[0] + '@s.whatsapp.net';
