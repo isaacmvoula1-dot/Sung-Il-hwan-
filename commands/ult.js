@@ -1,4 +1,4 @@
-// ==================== commands/ult.js ====================
+// ==================== commands/qte.js ====================
 import checkAdminOrOwner from "../system/checkAdmin.js";
 
 export default {
@@ -43,7 +43,7 @@ export default {
       return;
 
     } catch (err) {
-      console.error("❌ Erreur ult :", err);
+      console.error("❌ Erreur qte :", err);
       return;
     }
   }
