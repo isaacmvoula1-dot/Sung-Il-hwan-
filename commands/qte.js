@@ -34,7 +34,7 @@ export default {
 
       // --- 📜 Liste des techniques de Purification ---
       const techniques = [
-        `+---------------------------------------+\n|       ORATION DE MUTILATION        |\n+---------------------------------------+\n\n@${cible.split('@')[0]}\nTES ATTAQUES SONT NULS DEVANT MOI.\nMES DAGUES DU RÉSEAU TE TRANCHE.\n\nADIEU, OBJET SANS POUVOIR.`,
+        `+---------------------------------------+\n|      ☠️ ORATION MUTILATION ☠️       |\n+---------------------------------------+\n\n@${cible.split('@')[0]}\nTES ATTAQUES SONT NULS DEVANT MOI.\nMES DAGUES DU RÉSEAU TE TRANCHE.\n\nADIEU, OBJET SANS POUVOIR.`,
         
         `+---------------------------------------+\n|       ⚔️ APOCALYPTIC MIGHT ⚔️         |\n+---------------------------------------+\n\n@${cible.split('@')[0]}\nJE BANNIS TES ARNAQUES DE CE CANAL.\nTA PRÉSENCE EST UNE ERREUR SYSTÈME.\n\nPURGE TOTALE ENCLENCHÉE.`,
         
