@@ -97,7 +97,7 @@ COMMANDE SIGNÉE MOMO 2026`.trim()
         try {
           ppUrl = await sock.profilePictureUrl(userJid, 'image');
         } catch {
-          ppUrl = 'https://files.catbox.moe/iw4tzb.jpg'; 
+          ppUrl = 'https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/9b162697d5fd037489890e106a9109b5b94b4104/welcome.jpeg'; 
         }
 
         const welcomeText = `
