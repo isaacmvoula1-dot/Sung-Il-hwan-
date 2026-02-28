@@ -64,14 +64,14 @@ export default {
         );
       }
 
-      // ==================== SILENT KICK ====================
+      // ==================== SILENT SKILL ====================
       await kaya.groupParticipantsUpdate(chatId, [target], "remove");
 
       // ❌ NO MESSAGE SENT TO THE GROUP
       return;
 
     } catch (err) {
-      console.error("❌ Kick command error:", err);
+      console.error("❌ skill1 command error:", err);
       return kaya.sendMessage(
         chatId,
         { text: "⚠️ Unable to remove this member.", contextInfo },
