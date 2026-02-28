@@ -85,7 +85,7 @@ Commandes :
 
     if (data.mode === "image") {
       await sock.sendMessage(m.chat, {
-        image: { url: "https://i.imgur.com/3ZQ3ZQH.jpg" }, // image Solo Leveling
+        image: { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/6178611927920eab84cf5a4750fa5b8a6edacd86/mentionauto.png" }, // image Solo Leveling
         caption: textMessage,
         mentions: [m.sender]
       });
