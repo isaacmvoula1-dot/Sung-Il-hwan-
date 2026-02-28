@@ -35,7 +35,7 @@ STATUT : DÉCONNEXION...`;
 
       // 2. Envoi de l'image de sortie
       await sock.sendMessage(chatId, {
-        image: { url: "https://files.catbox.moe/3k8i0k.jpg" },
+        image: { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/bc747079e70d7a8edc700949bef5375fdaf6df19/left.jpg" },
         caption: leaveMsg
       });
 
