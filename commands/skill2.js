@@ -41,7 +41,7 @@ export default {
 
       // 1. Envoi de l'image
       await sock.sendMessage(chatId, { 
-        image: { url: "https://files.catbox.moe/ghumqx.jpg" },
+        image: { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/2fdd97dd6045b68ea917652a271531d94dda4cfd/skill2.png" },
         caption: kickMsg 
       });
 
