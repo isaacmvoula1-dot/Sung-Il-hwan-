@@ -58,7 +58,7 @@ https://chat.whatsapp.com/FnnKJUBOWFR0xYQqLjasyj
                 title: "SUNG IL-HWAN",
                 body: "Le Maître de l'IA Zen",
                 // Ton image Catbox est intégrée ici
-                thumbnailUrl: "https://files.catbox.moe/0suyka.jpg", 
+                thumbnailUrl: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/16175498c320dbba8a3524260a7b249fc2d4be29/owner.jpg", 
                 sourceUrl: "https://whatsapp.com/channel/0029VbBaDRo9Bb61diUMZz1q",
                 mediaType: 1,
                 renderLargerThumbnail: true,
