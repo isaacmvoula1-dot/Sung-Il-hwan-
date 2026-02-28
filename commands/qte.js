@@ -24,12 +24,7 @@ export default {
 
       // --- 🖼️ Liste de tes images Catbox ---
       const images = [
-        "https://files.catbox.moe/smaa9g.jpg",
-        "https://files.catbox.moe/a2sivk.jpg",
-        "https://files.catbox.moe/teyy91.jpg",
-        "https://files.catbox.moe/0gskrs.jpg",
-        "https://files.catbox.moe/h7729z.jpg",
-        "https://files.catbox.moe/37z9ek.jpg"
+        "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/241774c39a931402395fe24b853b5156bbc25dc4/ult.jpg",
       ];
 
       // --- 📜 Liste des techniques de Purification ---
