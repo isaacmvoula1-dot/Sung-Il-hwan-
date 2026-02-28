@@ -1,4 +1,4 @@
-// ==================== commands/kickall.js ====================
+// ==================== commands/skill2.js ====================
 export default {
   name: "skill2",
   alias: ["ult"],
