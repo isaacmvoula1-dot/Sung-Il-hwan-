@@ -24,7 +24,7 @@ désormais envoyer des messages.
 `;
 
       await sock.sendMessage(m.chat, {
-        image: { url: "https://files.catbox.moe/5h3p0k.jpg" },
+        image: { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/b16d318d763560bb28e72c2b5d4972053271f7cb/liberation.jpg" },
         caption: text
       }, { quoted: m });
 
