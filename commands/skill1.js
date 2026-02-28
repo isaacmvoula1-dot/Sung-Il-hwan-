@@ -59,7 +59,7 @@ export default {
       if (groupAdmins.includes(target)) {
         return kaya.sendMessage(
           chatId,
-          { text: "❌ Cannot kick an *Admin*.", contextInfo },
+          { text: "❌ Cannot skill1 an *Admin*.", contextInfo },
           { quoted: m }
         );
       }
