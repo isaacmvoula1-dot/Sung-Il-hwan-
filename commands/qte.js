@@ -2,7 +2,7 @@
 export default {
   name: "ult",
   alias: ["exorcisme", "purge"],
-  description: "Attaque ultimate de purification aléatoire contre les monstres",
+  description: "Attaque ultime de purification aléatoire contre les monstres",
   category: "ADMINISTRATION",
 
   run: async (sock, m, args) => {
