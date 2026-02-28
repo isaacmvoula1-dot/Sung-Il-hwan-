@@ -46,7 +46,7 @@ ${mentionText}
 
       // 6. Envoi avec ton image Jin-Woo sur le trône
       await sock.sendMessage(chatId, {
-        image: { url: "https://files.catbox.moe/nwtwec.jpg" },
+        image: { url: "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/58fa1d659860d6d9831e34f3c18f2e6518cd0cd5/qte.jpg" },
         caption: fullMessage,
         mentions: participants
       });
