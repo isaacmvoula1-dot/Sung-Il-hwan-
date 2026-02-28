@@ -26,7 +26,7 @@ export default {
       const images = [
         "https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/241774c39a931402395fe24b853b5156bbc25dc4/ult.jpg",
 
-https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/7cc4dc4027d301335105ce4347dd7c506567a8fc/skill1.jpg
+"https://github.com/isaacmvoula1-dot/Sung-Il-hwan-/blob/7cc4dc4027d301335105ce4347dd7c506567a8fc/skill1.jpg",
       ];
 
       // --- 📜 Liste des techniques de Purification ---
