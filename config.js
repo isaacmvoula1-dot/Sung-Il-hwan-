@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 const defaultConfig = {
   // 🔑 Identifiants
   SESSION_ID: "momo~yNMRiIbb#t32KoIxUrk3K7ppXUVpFSY62Fm1yXVcp-_f7z7tLuqE",
-  OWNERS: ["242056823759"], // ← tableau des owners, uniquement les numéros
+  OWNERS: ["243989877321"], // ← tableau des owners, uniquement les numéros
   PREFIX: ".",
   TIMEZONE: "Africa/Pointe-Noire",
   VERSION: "2.0.0",
